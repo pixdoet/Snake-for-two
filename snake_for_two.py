@@ -5,7 +5,6 @@
 
 #!/usr/bin/python2
 
-# 1/4/2020
 # I confessed to my crush
 # She friendzoned me
 # I'm so damn depressed
