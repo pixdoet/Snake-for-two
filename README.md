@@ -1,6 +1,7 @@
-# Rooood me(because who doesn't)
-
-Im trying to write a 2 player version of Snake in various different languages
+# games-weird-stuff
+STUPID GAMESSSSSSSSSSSSSSS
 
 # How to help
 You can't
+IF you really DO want to help, contact me on Facebook:
+fb.com/junian.daniel.9
