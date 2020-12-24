@@ -2,6 +2,6 @@
 STUPID GAMESSSSSSSSSSSSSSS
 
 # How to help
-You can't \n
+You can't  
 IF you really DO want to help, contact me on Facebook:
-fb.com/junian.daniel.9
+fb.com/hiewjunian
